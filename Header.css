@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    top: 0;
+}
+.header_icon{
+    margin-right: 28px;
+}
+.header_icons{
+    display: flex;
+    align-items: center;
+}
+.header > hr{
+    height: 1px;
+    border: 0;
+    background-color:black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
